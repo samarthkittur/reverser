@@ -15,7 +15,7 @@ in len(word), the first element of the
 original word is appended to the reversed
 list outside of the loop. The list is joined
 using the joined function. Then the polished
-product is returned to the user.
+product is printed to the console.
 
 
 Protected by MIT License
