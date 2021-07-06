@@ -5,4 +5,5 @@ def reverse(word):
         reversedWord.append(word[index]);
         index-=1;
     reversedWord.append(word[0]);
-    return reversedWord;
+    polished="".join(reversedWord);
+    return polished;
